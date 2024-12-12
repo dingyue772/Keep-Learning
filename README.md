@@ -1,1 +1,1 @@
-1. [Large Language Models](LLM.md)
+1. [Large Language Models](LLMs.md)
